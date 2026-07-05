@@ -1,8 +1,8 @@
 //Project: Simple Interest Calculator
 //What it does:
-//The program asks the user for three values — Principal (the initial amount), Rate of interest (in %),
-// and Time (in years) — then calculates the Simple Interest using the formula:
-//Simple Interest = (Principal × Rate × Time) / 100
+//The program asks the user for three values â€” Principal (the initial amount), Rate of interest (in %),
+// and Time (in years) â€” then calculates the Simple Interest using the formula:
+//Simple Interest = (Principal Ã— Rate Ã— Time) / 100
 //It should also display the Total Amount (Principal + Interest), and format the output cleanly (e.g., showing
 // 2 decimal places for currency-style numbers).
 //Requirements:
